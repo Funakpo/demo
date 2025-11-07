@@ -1,0 +1,11 @@
+# Factory7.pi Domain Configuration
+APP_NAME=Factory7
+APP_ENV=production
+APP_URL=https://factory7.pi
+APP_OWNER=Funakpo
+
+# Domain Verification Key
+VALIDATION_KEY=bc2a47c445eb093f60eacaae33ad58f2e70845f2d80a9871150e9d779f5b528dc67958171c2707b277580d74061f731484e5bb3e3647c3446ed025ff76780d8f
+
+# Additional Info
+POWERED_BY=F7_Global_Network
